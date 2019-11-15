@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.9)  14 NOV 2019 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.9)  14 NOV 2019 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,13 +881,13 @@ Package Fancyhdr Warning: \headheight is too small (36.0pt):
 
  (./Modulebeschrijving.tex
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/omscmr.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/bx/n/10 Prerequisite know-
  []
 
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 58.
+Package pdftex.def Info: img/logo.png used on input line 57.
 (pdftex.def)             Requested size: 40.76544pt x 40.76703pt.
 
 
@@ -991,7 +991,7 @@ nts/cm/cmr9.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on build/Modulewijzer.pdf (6 pages, 254403 bytes).
+Output written on build/Modulewijzer.pdf (6 pages, 254710 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream

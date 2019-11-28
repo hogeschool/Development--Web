@@ -1,0 +1,11 @@
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\bin\Debug\netcoreapp2.1\my_first_app.deps.json
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\bin\Debug\netcoreapp2.1\my_first_app.runtimeconfig.json
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\bin\Debug\netcoreapp2.1\my_first_app.runtimeconfig.dev.json
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\bin\Debug\netcoreapp2.1\my_first_app.dll
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\bin\Debug\netcoreapp2.1\my_first_app.pdb
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.csprojAssemblyReference.cache
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.csproj.CoreCompileInputs.cache
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.AssemblyInfoInputs.cache
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.AssemblyInfo.cs
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.dll
+C:\Users\mabba\Documents\Git\Development--Web\Lesson1\lesson1\my_first_app\obj\Debug\netcoreapp2.1\my_first_app.pdb
